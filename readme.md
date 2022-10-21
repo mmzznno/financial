@@ -1,20 +1,18 @@
-## Subject
+# Subject
 
-## Good customer target model
-
+  Good customer target model
 # Method
 
- # DecisionTreeClassifier
- ## GridSearchCV
+ DecisionTreeClassifier
+ GridSearchCV
 
-## Result
+# Result
 
-# AUC ＝0.856
-
-## Reference
+ AUC ＝0.856
+# Reference
 
 https://biz.quest.signate.jp/quests/10005/contents/8
 
-## ISSUES
+# ISSUES
 
- # about GridSearchCV param set
+ about GridSearchCV param set
